@@ -1,0 +1,12 @@
+*node_modules/
+*.expo/
+*.expo-shared/
+*.vscode/
+/FS.txt
+frontend/npm-debug.*
+
+
+# macOS
+frontend/DS_Store
+node_modules
+
